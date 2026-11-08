@@ -2,8 +2,10 @@
 
 A fully 3D-printed 1/16 scale RC drift car, designed in Fusion 360 around a brushless motor, a printed gear drivetrain and a servo-steered front end. Everything except the electronics, bearings, shafts and pinion is printed in ABS.
 
-![Chassis overview](images/chassis-iso.png)
-![Drivetrain close-up](images/drivetrain.png)
+<img width="1342" height="934" alt="Screenshot 2026-11-08 173655" src="https://github.com/user-attachments/assets/8aa99574-32a4-473c-8e15-783f77afb983" />
+<img width="1239" height="914" alt="Screenshot 2026-11-08 173633" src="https://github.com/user-attachments/assets/d0a23f04-d341-4f64-8334-ecd1c3386187" />
+<img width="1175" height="925" alt="Screenshot 2026-11-08 180758" src="https://github.com/user-attachments/assets/05588253-e085-4d33-8b74-c36432fdea86" />
+
 
 ## How it works
 
